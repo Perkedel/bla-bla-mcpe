@@ -1,0 +1,94 @@
+version:19-preview2
+disable:0
+tpX:97
+tpY:64
+tpZ:130
+tpName:X-ray box
+tpX:48
+tpY:61
+tpZ:31
+tpName:Jail House
+tpX:207
+tpY:69
+tpZ:165
+tpName:Kumiziver Anthrod...
+tpX:147
+tpY:72
+tpZ:118
+tpName:Hollow house
+tpX:101
+tpY:65
+tpZ:172
+tpName:Back to home
+tpX:126
+tpY:74
+tpZ:128
+tpName:Spawn house
+tpX:211
+tpY:69
+tpZ:121
+tpName:Medieval Apartment
+tpX:201
+tpY:67
+tpZ:82
+tpName:Pidato hut
+tpX:169
+tpY:66
+tpZ:33
+tpName:Cats_02 Convinience 
+tpX:124
+tpY:65
+tpZ:33
+tpName:Cats_02 Party lawn
+tpX:140
+tpY:66
+tpZ:43
+tpName:Cats_02 gift house
+tpX:48
+tpY:61
+tpZ:31
+tpName:Nether jail house
+tpX:257
+tpY:65
+tpZ:132
+tpName:Divil Striper club
+tpX:1278
+tpY:64
+tpZ:125
+tpName:Karmitxi Village
+tpX:4447
+tpY:71
+tpZ:-72
+tpName:Agung Mikar Desert
+tpX:5
+tpY:71
+tpZ:750
+tpName:Saharanch ground
+tpX:-39
+tpY:65
+tpZ:742
+tpName:Saharanch stays
+tpX:-45
+tpY:62
+tpZ:752
+tpName:Saharanch cave
+tpX:184
+tpY:63
+tpZ:1282
+tpName:Duo side cave
+tpX:-555
+tpY:70
+tpZ:1062
+tpName:Silicon Valley PE
+tpX:-537
+tpY:69
+tpZ:1113
+tpName:Silicon Valley cave
+tpX:-529
+tpY:70
+tpZ:1151
+tpName:Google's stay/inn
+tpX:86
+tpY:77
+tpZ:-958
+tpName:GrockGi

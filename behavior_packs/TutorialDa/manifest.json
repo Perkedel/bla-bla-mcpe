@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "uuid": "95a3ecd8-6209-11e9-8647-d663bd873d93",
+    "name": "Tutorial Data Pack",
+    "version": [ 1, 8, 0 ],
+    "description": "Tutorial resource pack 5"
+  },
+  "modules": [
+    {
+      "description": "Not Used",
+      "version": [ 1, 8, 0 ],
+      "uuid": "95a3f35e-6209-11e9-8647-d663bd873d93",
+      "type": "data"
+    }
+  ],
+    "dependencies": [
+        {
+			"uuid": "7a5e8e7e-6204-11e9-8647-d663bd873d93",
+            "version": [0, 0, 1]
+        }
+    ]
+}
