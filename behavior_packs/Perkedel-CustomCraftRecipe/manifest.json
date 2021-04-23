@@ -7,19 +7,13 @@
         "version": [0, 0, 1],
         "min_engine_version": [1, 13, 0]
     },
-    "modules": [
-        {
-            "description": "Unused Right now",
-            "type": "data",
-            "uuid": "0dae0ea6-e68e-4fbe-8113-09c115b76969",
-            "version": [0, 0, 1]
-        }
-    ],
+    "modules": [{
+        "description": "Unused Right now",
+        "type": "data",
+        "uuid": "0dae0ea6-e68e-4fbe-8113-09c115b76969",
+        "version": [0, 0, 1]
+    }],
     "dependencies": [
-        
+
     ]
 }
-
-// https://mcpe-universe.com/guide/12-how-to-create-items-in-minecraft-bedrock-edition.html 
-// https://minecraft.gamepedia.com/Bedrock_Edition_recipe_documentation 
-// https://minecraft.gamepedia.com/Bedrock_Edition_beta_add-on_documentation  

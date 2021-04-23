@@ -1,0 +1,4 @@
+
+// https://mcpe-universe.com/guide/12-how-to-create-items-in-minecraft-bedrock-edition.html 
+// https://minecraft.gamepedia.com/Bedrock_Edition_recipe_documentation 
+// https://minecraft.gamepedia.com/Bedrock_Edition_beta_add-on_documentation  
