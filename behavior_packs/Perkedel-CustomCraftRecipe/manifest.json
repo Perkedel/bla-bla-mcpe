@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Perkedel Custom Craft Recipe",
+        "name": "Perkedel Custom Craft Recipe",
+        "uuid": "4b9ecbf4-b7d9-11ea-b3de-0242ac130004",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [{
+        "description": "Unused Right now",
+        "type": "data",
+        "uuid": "0dae0ea6-e68e-4fbe-8113-09c115b76969",
+        "version": [0, 0, 1]
+    }],
+    "dependencies": [
+
+    ]
+}

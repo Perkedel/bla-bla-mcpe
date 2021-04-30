@@ -1,0 +1,16 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:testitem"
+    },
+    
+    "components": {
+      "minecraft:hand_equipped": true,
+      "minecraft:stacked_by_data": true,
+      "minecraft:use_duration": 32,
+	   "minecraft:block": "beacon",
+      "minecraft:foil": true  
+      }
+    }
+}
