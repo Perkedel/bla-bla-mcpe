@@ -1,0 +1,52 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "perkedel_stuffs:commund_bluck"
+    },
+    "groups": [
+      "perkedel_stuffs"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "345",
+      "678"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:bedrock"
+      },
+      "1": {
+        "item": "minecraft:bedrock"
+      },
+      "2": {
+        "item": "minecraft:bedrock"
+      },
+      "3": {
+        "item": "minecraft:bedrock"
+      },
+      "4": {
+        "item": "minecraft:book"
+      },
+      "5": {
+        "item": "minecraft:bedrock"
+      },
+      "6": {
+        "item": "minecraft:bedrock"
+      },
+      "7": {
+        "item": "minecraft:redstone"
+      },
+      "8": {
+        "item": "minecraft:bedrock"
+      }
+    },
+    "result": {
+      "item": "minecraft:command_block",
+      "count": 64
+    }
+  }
+}

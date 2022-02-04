@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Perkedel Stuffs",
+    "uuid": "1ccad525-442d-35d0-adc1-3b54aadf8835",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "2e56edd8-18cf-3748-a840-14d83bc01c53",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "6656157c-e7b9-3aff-82ae-a2cb117b9d29",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "joelr, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

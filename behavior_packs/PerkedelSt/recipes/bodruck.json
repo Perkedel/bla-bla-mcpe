@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "perkedel_stuffs:bodruck"
+    },
+    "groups": [
+      "perkedel_stuffs"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:bed"
+      },
+      {
+        "item": "minecraft:stone",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:bedrock",
+      "count": 64
+    }
+  }
+}

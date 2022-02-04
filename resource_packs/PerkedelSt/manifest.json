@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Perkedel Stuffs",
+    "uuid": "6656157c-e7b9-3aff-82ae-a2cb117b9d29",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "2b157225-661e-3073-bca1-bd02c5396339",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "joelr, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

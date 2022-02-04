@@ -1,0 +1,38 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "perkedel_stuffs_mavrickleblock_up": {
+      "textures": [
+        "textures/blocks/mavrickleicon"
+      ]
+    },
+    "perkedel_stuffs_mavrickleblock_down": {
+      "textures": [
+        "textures/blocks/mavrickleicon"
+      ]
+    },
+    "perkedel_stuffs_mavrickleblock_south": {
+      "textures": [
+        "textures/blocks/mavrickleicon"
+      ]
+    },
+    "perkedel_stuffs_mavrickleblock_north": {
+      "textures": [
+        "textures/blocks/mavrickleicon"
+      ]
+    },
+    "perkedel_stuffs_mavrickleblock_west": {
+      "textures": [
+        "textures/blocks/mavrickleicon"
+      ]
+    },
+    "perkedel_stuffs_mavrickleblock_east": {
+      "textures": [
+        "textures/blocks/mavrickleicon"
+      ]
+    }
+  }
+}

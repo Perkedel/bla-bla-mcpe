@@ -1,0 +1,13 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "perkedel_stuffs:perkedel_stuffs_mavrickleblock_ore_feature"
+    },
+    "count": 64,
+    "places_block": "perkedel_stuffs:mavrickleblock",
+    "may_replace": [
+      "minecraft:stone"
+    ]
+  }
+}

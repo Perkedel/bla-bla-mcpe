@@ -1,0 +1,18 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "perkedel_stuffs:mavrickleblock": {
+    "textures": {
+      "up": "perkedel_stuffs_mavrickleblock_up",
+      "down": "perkedel_stuffs_mavrickleblock_down",
+      "south": "perkedel_stuffs_mavrickleblock_south",
+      "north": "perkedel_stuffs_mavrickleblock_north",
+      "west": "perkedel_stuffs_mavrickleblock_west",
+      "east": "perkedel_stuffs_mavrickleblock_east"
+    },
+    "sound": "gravel"
+  }
+}
