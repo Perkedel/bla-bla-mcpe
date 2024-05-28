@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "The go-to 64x texture pack for Minecraft. Now for Bedrock Edition.",
+    "min_engine_version": [
+      1,
+      20,
+      80
+    ],
+    "name": "Faithful 64x",
+    "uuid": "3bdb33f0-8822-4d14-91b4-758363bc02c5",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "metadata": {
+      "authors": [ "Vattic & Faithful Team" ],
+      "license": "https://faithfulpack.net/license",
+      "url": "https://faithfulpack.net/"
+},
+  "modules": [
+    {
+      "description": "The go-to 64x texture pack for Minecraft. Now for Bedrock Edition.",
+      "type": "resources",
+      "uuid": "9bdec0f1-65a0-42fe-bd77-53ac8d9e8c06",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
